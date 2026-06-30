@@ -1,5 +1,5 @@
 @@ -1,4 +1,4 @@
-# Bluetooth Controlled Sumo Robot
+# Bluetooth Controlled
 #  Sumo Robot
 
 ## Overview
